@@ -1,0 +1,17 @@
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.deps.json
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.json
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.dev.json
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.pdb
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.dll
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.pdb
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csprojAssemblyReference.cache
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfoInputs.cache
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfo.cs
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CopyComplete
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\vinicius.santos\Desktop\FizzBuzzDojo\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.pdb
