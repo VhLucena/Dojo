@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/BankEntriesDojoTest.csproj": {}
+  },
+  "projects": {
+    "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/BankEntriesDojo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/BankEntriesDojo.csproj",
+        "projectName": "BankEntriesDojo",
+        "projectPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/BankEntriesDojo.csproj",
+        "packagesPath": "/Users/viniciuslucena/.nuget/packages/",
+        "outputPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/viniciuslucena/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/BankEntriesDojoTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/BankEntriesDojoTest.csproj",
+        "projectName": "BankEntriesDojoTest",
+        "projectPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/BankEntriesDojoTest.csproj",
+        "packagesPath": "/Users/viniciuslucena/.nuget/packages/",
+        "outputPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/viniciuslucena/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/BankEntriesDojo.csproj": {
+                "projectPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/BankEntriesDojo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

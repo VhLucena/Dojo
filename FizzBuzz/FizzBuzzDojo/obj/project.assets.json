@@ -686,32 +686,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vinicius.santos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/viniciuslucena/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.santos\\Desktop\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
+      "projectUniqueName": "/Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/FizzBuzzDojo.csproj",
       "projectName": "FizzBuzzDojo",
-      "projectPath": "C:\\Users\\vinicius.santos\\Desktop\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
-      "packagesPath": "C:\\Users\\vinicius.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.santos\\Desktop\\Dojo\\FizzBuzz\\FizzBuzzDojo\\obj\\",
+      "projectPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/FizzBuzzDojo.csproj",
+      "packagesPath": "/Users/viniciuslucena/.nuget/packages/",
+      "outputPath": "/Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vinicius.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/viniciuslucena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://uux.pkgs.visualstudio.com/_packaging/TvOpenPlatform/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

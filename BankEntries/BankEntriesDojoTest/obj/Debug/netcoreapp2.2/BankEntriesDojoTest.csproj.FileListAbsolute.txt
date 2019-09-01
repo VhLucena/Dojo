@@ -1,0 +1,17 @@
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojoTest.deps.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojoTest.runtimeconfig.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojoTest.runtimeconfig.dev.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojoTest.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojoTest.pdb
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojo.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/bin/Debug/netcoreapp2.2/BankEntriesDojo.pdb
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.csprojAssemblyReference.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.csproj.CoreCompileInputs.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.AssemblyInfoInputs.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.AssemblyInfo.cs
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.csproj.CopyComplete
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.pdb

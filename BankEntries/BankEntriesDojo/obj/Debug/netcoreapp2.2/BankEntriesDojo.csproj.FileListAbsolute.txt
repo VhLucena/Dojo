@@ -1,0 +1,11 @@
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/bin/Debug/netcoreapp2.2/BankEntriesDojo.deps.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/bin/Debug/netcoreapp2.2/BankEntriesDojo.runtimeconfig.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/bin/Debug/netcoreapp2.2/BankEntriesDojo.runtimeconfig.dev.json
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/bin/Debug/netcoreapp2.2/BankEntriesDojo.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/bin/Debug/netcoreapp2.2/BankEntriesDojo.pdb
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.csprojAssemblyReference.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.csproj.CoreCompileInputs.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.AssemblyInfoInputs.cache
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.AssemblyInfo.cs
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.dll
+/Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojo/obj/Debug/netcoreapp2.2/BankEntriesDojo.pdb
