@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace WordChains
 {
@@ -7,5 +8,10 @@ namespace WordChains
 		public Validator()
 		{
 		}
-	}
+
+        public static void IsValidWords(List<string> validInput)
+        {
+            
+        }
+    }
 }

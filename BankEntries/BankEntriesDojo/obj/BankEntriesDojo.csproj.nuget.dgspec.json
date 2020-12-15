@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {}
+    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {
+    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
         "projectName": "BankEntriesDojo",
-        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\obj\\",
+        "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,7 +31,6 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,7 +42,6 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -61,7 +60,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
