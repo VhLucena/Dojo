@@ -5,11 +5,12 @@ namespace WordChains
 {
 	public class Validator
 	{
-		public Validator()
+        
+		public Validator(List<string> dictionary)
 		{
 		}
 
-        public static void IsValidWords(List<string> validInput)
+        public void IsValidWords(List<string> validInput)
         {
             
         }

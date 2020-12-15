@@ -67,3 +67,21 @@ C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2
 C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.dll
 C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.pdb
 C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.deps.json
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.json
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.pdb
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.dll
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.pdb
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CopyComplete
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.pdb
+C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.genruntimeconfig.cache

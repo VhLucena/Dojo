@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HHriD9oMy3tpIC4lQnHzwHk5IZETH6xVeMoZQiuPQPjLNTmWtLEfww44N47wCF1pTUKku6lVvhKvmQKnqgb4HA==",
+  "dgSpecHash": "eHdpdKu9/6MirTPIxO/JfPsc6Jk+FK2OZXRLqr32Ea8bkRkwDeMOtoQ58wSJYp6LY5a1/IoQZg3MUsH3VfpaPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

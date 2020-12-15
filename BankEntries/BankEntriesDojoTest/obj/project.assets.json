@@ -5768,25 +5768,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojoTest\\BankEntriesDojoTest.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojoTest\\BankEntriesDojoTest.csproj",
       "projectName": "BankEntriesDojoTest",
-      "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojoTest\\BankEntriesDojoTest.csproj",
-      "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojoTest\\obj\\",
+      "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojoTest\\BankEntriesDojoTest.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojoTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5799,9 +5797,10 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {
-              "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj"
+            "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj": {
+              "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\BankEntries\\BankEntriesDojo\\BankEntriesDojo.csproj"
             }
           }
         }
@@ -5814,6 +5813,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5844,7 +5844,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
