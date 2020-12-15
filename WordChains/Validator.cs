@@ -26,7 +26,23 @@ namespace WordChains
 
         public void IsValidChanges(List<string> changes)
         {
+            // "cat", "dog"
+            int changesCount = 0;
+            for (int i = 0; i < changes.Count-2; i++)
+            {
+                for (int j = 0; j < changes[i].Length; j++)
+                {
+                    if (changes[i][j] != changes[i + 1][j])
+                    {
+                        changesCount++;
+                    }
+                }
+            }
 
+            if (changesCount > 1)
+            {
+                throw new Exception();
+            }
         }
     }
 }
