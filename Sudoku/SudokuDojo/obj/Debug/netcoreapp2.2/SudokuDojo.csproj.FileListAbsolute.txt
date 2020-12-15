@@ -54,3 +54,4 @@ C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\Sudok
 C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.dll
 C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.pdb
 C:\Users\rafae\source\repos\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.genruntimeconfig.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.csprojAssemblyReference.cache

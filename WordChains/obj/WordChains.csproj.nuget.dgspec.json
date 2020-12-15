@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj": {}
+    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChains\\WordChains.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj": {
+    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChains\\WordChains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChains\\WordChains.csproj",
         "projectName": "WordChains",
-        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\obj\\",
+        "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChains\\WordChains.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,7 +31,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +42,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

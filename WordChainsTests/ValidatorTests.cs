@@ -1,14 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using WordChains;
+using WordChains.Exceptions;
 using Xunit;
 
 namespace WordChain.UnitTests
 {
 	public class ValidatorTests
 	{
+		private readonly Validator _validator;
+
 		public ValidatorTests()
 		{
+			var dictionary = new List<string>
+			{
+				"dog", "cat", "dot", "cot"
+			};
+
+			_validator = new Validator(dictionary);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
@@ -16,10 +25,9 @@ namespace WordChain.UnitTests
 		{
 			// Arrange
 			var validInput = new List<string> { "dog", "dot", "cot" };
-			var validator = new Validator();
 			
 			// Act / Assert
-			validator.IsValidWords(validInput);
+			_validator.IsValidWords(validInput);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
@@ -27,22 +35,25 @@ namespace WordChain.UnitTests
 		{
 			// Arrange
 			var validInput = new List<string> { };
-			var validator = new Validator();
 
 			// Act / Assert
-			validator.IsValidWords(validInput);
+			_validator.IsValidWords(validInput);
 		}
 
-		[Theory(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
+		[Theory(DisplayName = "Validator -> Should Consider Invalid -> Providing Invalid Words")]
         [InlineData("asdfsf")]
+        [InlineData("aaaaaa")]
+        [InlineData("xasdff")]
+        [InlineData("")]
+        [InlineData(".")]
+        [InlineData("?")]
 		public void Should_ConsiderInvalid_When_ProvidingInvalidWords(string invalidWord)
 		{
 			// Arrange
 			var invalidWords = new List<string> { invalidWord };
-			var validator = new Validator();
 			
 			// Act / Assert
-			Assert.Throws<Exception>(() => validator.IsValidWords(invalidWords));
+			Assert.Throws<InvalidWordException>(() => _validator.IsValidWords(invalidWords));
 		}
 	}
 }

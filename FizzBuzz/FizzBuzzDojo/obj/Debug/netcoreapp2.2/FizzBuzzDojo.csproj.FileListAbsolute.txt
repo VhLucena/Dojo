@@ -54,3 +54,4 @@ C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\F
 C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.dll
 C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
 C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.genruntimeconfig.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.csprojAssemblyReference.cache

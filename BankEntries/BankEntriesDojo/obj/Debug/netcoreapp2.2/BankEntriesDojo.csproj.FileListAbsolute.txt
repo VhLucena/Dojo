@@ -32,3 +32,4 @@ C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojo\obj\Debug\netcoreap
 C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojo\obj\Debug\netcoreapp2.2\BankEntriesDojo.dll
 C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojo\obj\Debug\netcoreapp2.2\BankEntriesDojo.pdb
 C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojo\obj\Debug\netcoreapp2.2\BankEntriesDojo.genruntimeconfig.cache
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojo\obj\Debug\netcoreapp2.2\BankEntriesDojo.csprojAssemblyReference.cache
