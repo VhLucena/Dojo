@@ -31,3 +31,14 @@ C:/Users/vinicius.santos/Desktop/Dojo/Sudoku/SudokuDojo/obj/Debug/netcoreapp2.2/
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojo/obj/Debug/netcoreapp2.2/SudokuDojo.AssemblyInfo.cs
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojo/obj/Debug/netcoreapp2.2/SudokuDojo.dll
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojo/obj/Debug/netcoreapp2.2/SudokuDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\bin\Debug\netcoreapp2.2\SudokuDojo.deps.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\bin\Debug\netcoreapp2.2\SudokuDojo.runtimeconfig.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\bin\Debug\netcoreapp2.2\SudokuDojo.runtimeconfig.dev.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\bin\Debug\netcoreapp2.2\SudokuDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\bin\Debug\netcoreapp2.2\SudokuDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.AssemblyInfoInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.AssemblyInfo.cs
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojo\obj\Debug\netcoreapp2.2\SudokuDojo.genruntimeconfig.cache

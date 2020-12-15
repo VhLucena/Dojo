@@ -49,3 +49,21 @@ C:/Users/vinicius.santos/Desktop/Dojo/FizzBuzz/FizzBuzzDojoTest/obj/Debug/netcor
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojoTest/obj/Debug/netcoreapp2.2/FizzBuzzDojoTest.csproj.CopyComplete
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojoTest/obj/Debug/netcoreapp2.2/FizzBuzzDojoTest.dll
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojoTest/obj/Debug/netcoreapp2.2/FizzBuzzDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojoTest.deps.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojoTest.runtimeconfig.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojoTest.runtimeconfig.dev.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\bin\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.csprojAssemblyReference.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.AssemblyInfoInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.AssemblyInfo.cs
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.csproj.CopyComplete
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojoTest\obj\Debug\netcoreapp2.2\FizzBuzzDojoTest.genruntimeconfig.cache

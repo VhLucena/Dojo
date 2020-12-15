@@ -49,3 +49,21 @@ C:/Users/vinicius.santos/Desktop/Dojo/Sudoku/SudokuDojoTest/obj/Debug/netcoreapp
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojoTest/obj/Debug/netcoreapp2.2/SudokuDojoTest.csproj.CopyComplete
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojoTest/obj/Debug/netcoreapp2.2/SudokuDojoTest.dll
 /Users/viniciuslucena/Dojo_pt2/Dojo/Sudoku/SudokuDojoTest/obj/Debug/netcoreapp2.2/SudokuDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.deps.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.runtimeconfig.dev.json
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\bin\Debug\netcoreapp2.2\SudokuDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csprojAssemblyReference.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfoInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.AssemblyInfo.cs
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.csproj.CopyComplete
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\Sudoku\SudokuDojoTest\obj\Debug\netcoreapp2.2\SudokuDojoTest.genruntimeconfig.cache
