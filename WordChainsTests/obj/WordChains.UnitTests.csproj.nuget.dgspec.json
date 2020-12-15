@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj": {}
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj": {
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj",
         "projectName": "WordChains.UnitTests",
-        "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\WordChainsTests\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChainsTests\\WordChains.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChainsTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,7 +30,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj": {
+                "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -42,6 +46,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -75,7 +80,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj",
+        "projectName": "WordChains",
+        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\WordChains.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\WordChains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

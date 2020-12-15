@@ -1,8 +1,11 @@
 ﻿using System;
 
-public class Validator
+namespace WordChains
 {
-	public Validator()
+	public class Validator
 	{
+		public Validator()
+		{
+		}
 	}
 }

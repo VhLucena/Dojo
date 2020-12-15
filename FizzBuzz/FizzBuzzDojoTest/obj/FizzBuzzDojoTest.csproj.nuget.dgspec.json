@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj": {}
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj": {
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj",
         "projectName": "FizzBuzzDojoTest",
-        "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj",
-        "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\FizzBuzzDojoTest.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojoTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,9 +30,10 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj": {
-                "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj"
+              "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj": {
+                "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj"
               }
             }
           }
@@ -45,6 +46,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -75,24 +77,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj": {
+    "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
         "projectName": "FizzBuzzDojo",
-        "projectPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
-        "packagesPath": "C:\\Users\\Vinicius Lucena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius Lucena\\work\\Dojo\\FizzBuzz\\FizzBuzzDojo\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\FizzBuzzDojo.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\source\\repos\\Dojo\\FizzBuzz\\FizzBuzzDojo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vinicius Lucena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -105,6 +107,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -116,6 +119,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -134,7 +138,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

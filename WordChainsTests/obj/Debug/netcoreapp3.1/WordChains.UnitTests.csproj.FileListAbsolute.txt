@@ -94,3 +94,8 @@ C:\Users\Vinicius Lucena\work\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordC
 C:\Users\Vinicius Lucena\work\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.dll
 C:\Users\Vinicius Lucena\work\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.pdb
 C:\Users\Vinicius Lucena\work\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Dojo\WordChainsTests\obj\Debug\netcoreapp3.1\WordChains.UnitTests.pdb

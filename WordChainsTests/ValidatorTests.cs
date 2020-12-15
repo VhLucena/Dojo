@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using WordChains;
 using Xunit;
 
 namespace WordChain.UnitTests
@@ -13,13 +14,8 @@ namespace WordChain.UnitTests
 		[Fact]
 		public void Should()
 		{
-			var expected = new List<string> { "dog, dot, cot" };
-			, "dog, dot, cot"
-			Validator.IsValid(current);
-
-			// Validator de fato
-
-			// Palavras Válidas
+			var validInput = new List<string> { "dog", "dot", "cot" };
+			Validator.IsValidWords(validInput);
 		}
 	}
 }
