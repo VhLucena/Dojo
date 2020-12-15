@@ -10,6 +10,11 @@ namespace WordChains
 
         public Validator(List<string> dictionary)
         {
+            if (dictionary is null)
+            {
+                throw new InvalidDictionaryException();
+            }
+
             _dictionary = dictionary;
         }
 

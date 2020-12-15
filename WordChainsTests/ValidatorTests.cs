@@ -129,5 +129,35 @@ namespace WordChain.UnitTests
 			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
 		}
 	}
+
+	public class ConstructorTests
+    {
+		[Fact(DisplayName = "Should Throw When Provided Null Dictionary")]
+		public void Should_Throw_When_ProvidedNullDictionary()
+        {
+			// Arrange / Act / Assert
+			Assert.Throws<InvalidDictionaryException>(() => new Validator(null));
+        }
+
+		[Fact(DisplayName = "Should Work When Provided Empty Dictionary")]
+		public void Should_Work_When_ProvidedEmptyDictionary()
+		{
+			// Arrange
+			var emptyDictionary = new List<string> { };
+
+			// Act / Assert
+			new Validator(emptyDictionary);
+		}
+
+		[Fact(DisplayName = "Should Work When Provided Not Empty Dictionary")]
+		public void Should_Work_When_ProvidedNotEmptyDictionary()
+		{
+			// Arrange
+			var dictionary = new List<string> { "dog" };
+
+			// Act / Assert
+			new Validator(dictionary);
+		}
+	}
 }
 
