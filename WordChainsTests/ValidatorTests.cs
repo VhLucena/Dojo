@@ -55,6 +55,36 @@ namespace WordChain.UnitTests
 			// Act / Assert
 			Assert.Throws<InvalidWordException>(() => _validator.IsValidWords(invalidWords));
 		}
+
+		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing Two Valid Words")]
+		public void Should_ConsiderValid_When_ProvidingOneValidChange()
+        {
+			// Arrange
+			var validChanges = new List<string> { "cat", "cot" };
+
+			// Act / Assert
+			_validator.IsValidChanges(validChanges);
+        }
+
+		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing No Changes")]
+		public void Should_ConsiderValid_When_ProvidingNoChanges()
+		{
+			// Arrange
+			var noChanges = new List<string> { "cat" };
+
+			// Act / Assert
+			_validator.IsValidChanges(noChanges);
+		}
+
+		[Fact(DisplayName = "Validator -> Should Consider Invalid -> Providing Invalid Changes")]
+		public void Should_ConsiderInvalid_When_ProvidingInvalidChanges()
+		{
+			// Arrange
+			var invalidChanges = new List<string> { "cat", "dog" };
+
+			// Act / Assert
+			Assert.Throws<Exception>(() => _validator.IsValidChanges(invalidChanges));
+		}
 	}
 }
 
