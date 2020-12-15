@@ -6,11 +6,11 @@ using Xunit;
 
 namespace WordChain.UnitTests
 {
-	public class ValidatorTests
+	public class IsValidWordTests
 	{
 		private readonly Validator _validator;
 
-		public ValidatorTests()
+		public IsValidWordTests()
 		{
 			var dictionary = new List<string>
 			{
@@ -25,7 +25,7 @@ namespace WordChain.UnitTests
 		{
 			// Arrange
 			var validInput = new List<string> { "dog", "dot", "cot" };
-			
+
 			// Act / Assert
 			_validator.IsValidWords(validInput);
 		}
@@ -41,30 +41,43 @@ namespace WordChain.UnitTests
 		}
 
 		[Theory(DisplayName = "Validator -> Should Consider Invalid -> Providing Invalid Words")]
-        [InlineData("asdfsf")]
-        [InlineData("aaaaaa")]
-        [InlineData("xasdff")]
-        [InlineData("")]
-        [InlineData(".")]
-        [InlineData("?")]
+		[InlineData("asdfsf")]
+		[InlineData("aaaaaa")]
+		[InlineData("xasdff")]
+		[InlineData("")]
+		[InlineData(".")]
+		[InlineData("?")]
 		public void Should_ConsiderInvalid_When_ProvidingInvalidWords(string invalidWord)
 		{
 			// Arrange
 			var invalidWords = new List<string> { invalidWord };
-			
+
 			// Act / Assert
 			Assert.Throws<InvalidWordException>(() => _validator.IsValidWords(invalidWords));
+		}
+	}
+	public class IsValidChangesTests
+	{
+		private readonly Validator _validator;
+		public IsValidChangesTests()
+		{
+			var dictionary = new List<string>
+				{
+					"dog", "cat", "dot", "cot"
+				};
+
+			_validator = new Validator(dictionary);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing Two Valid Words")]
 		public void Should_ConsiderValid_When_ProvidingOneValidChange()
-        {
+		{
 			// Arrange
 			var validChanges = new List<string> { "cat", "cot" };
 
 			// Act / Assert
 			_validator.IsValidChanges(validChanges);
-        }
+		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing No Changes")]
 		public void Should_ConsiderValid_When_ProvidingNoChanges()
@@ -83,11 +96,11 @@ namespace WordChain.UnitTests
 			var invalidChanges = new List<string> { "cat", "dog" };
 
 			// Act / Assert
-			Assert.Throws<Exception>(() => _validator.IsValidChanges(invalidChanges));
+			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
 		}
 
-		[Fact(DisplayName = "Validator -> Should Consider Invalid -> Providing Two Valid Changes")]
-		public void Should_ConsiderInvalid_When_ProvidingTwoValidChanges()
+		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing Two Valid Changes")]
+		public void Should_ConsiderValid_When_ProvidingTwoValidChanges()
 		{
 			// Arrange
 			var validChanges = new List<string> { "cat", "cot", "cog" };
@@ -96,14 +109,24 @@ namespace WordChain.UnitTests
 			_validator.IsValidChanges(validChanges);
 		}
 
-		[Fact(DisplayName = "Validator -> Should Consider Invalid -> Providing Two Valid Changes")]
-		public void Should_ConsiderInvalid_When_ProvidingTwoValidChanges()
+		[Fact(DisplayName = "Validator -> Should Consider Invalid -> First Word Is Bigger Than Second")]
+		public void Should_ConsiderInvalid_When_FirstWordIsBiggerThanSecond()
 		{
 			// Arrange
-			var invalidChanges = new List<string> { "house", "cat" };
+			var invalidChanges = new List<string> { "doghouse", "dog" };
 
 			// Act / Assert
-			_validator.IsValidChanges(invalidChanges);
+			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
+		}
+
+		[Fact(DisplayName = "Validator -> Should Consider Invalid -> First Word Is Smaller Than Second")]
+		public void Should_ConsiderInvalid_When_FirstWordIsSmallerThanSecond()
+		{
+			// Arrange
+			var invalidChanges = new List<string> { "dog", "doghouse" };
+
+			// Act / Assert
+			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
 		}
 	}
 }
