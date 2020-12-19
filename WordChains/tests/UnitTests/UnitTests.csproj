@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WordChains\WordChains.csproj" />
+    <ProjectReference Include="..\..\src\Application.csproj" />
   </ItemGroup>
 
 </Project>
