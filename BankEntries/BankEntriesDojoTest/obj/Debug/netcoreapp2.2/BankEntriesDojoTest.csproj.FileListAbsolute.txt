@@ -15,3 +15,39 @@
 /Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.csproj.CopyComplete
 /Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.dll
 /Users/viniciuslucena/Dojo_pt2/Dojo/BankEntries/BankEntriesDojoTest/obj/Debug/netcoreapp2.2/BankEntriesDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.deps.json
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.runtimeconfig.json
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.runtimeconfig.dev.json
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csprojAssemblyReference.cache
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.AssemblyInfoInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.AssemblyInfo.cs
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csproj.CopyComplete
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.dll
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.pdb
+C:\Users\Vinicius Lucena\work\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.deps.json
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.runtimeconfig.json
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.dll
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojoTest.pdb
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojo.dll
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\bin\Debug\netcoreapp2.2\BankEntriesDojo.pdb
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.csproj.CopyComplete
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.dll
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.pdb
+C:\Users\rafae\source\repos\Dojo\BankEntries\BankEntriesDojoTest\obj\Debug\netcoreapp2.2\BankEntriesDojoTest.genruntimeconfig.cache

@@ -31,3 +31,27 @@ C:/Users/vinicius.santos/Desktop/Dojo/FizzBuzz/FizzBuzzDojo/obj/Debug/netcoreapp
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/obj/Debug/netcoreapp2.2/FizzBuzzDojo.AssemblyInfo.cs
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/obj/Debug/netcoreapp2.2/FizzBuzzDojo.dll
 /Users/viniciuslucena/Dojo_pt2/Dojo/FizzBuzz/FizzBuzzDojo/obj/Debug/netcoreapp2.2/FizzBuzzDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.deps.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.runtimeconfig.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.runtimeconfig.dev.json
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.AssemblyInfoInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.AssemblyInfo.cs
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.dll
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.deps.json
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.runtimeconfig.json
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.dll
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\bin\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.dll
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.pdb
+C:\Users\rafae\source\repos\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.genruntimeconfig.cache
+C:\Users\Vinicius Lucena\work\Dojo\FizzBuzz\FizzBuzzDojo\obj\Debug\netcoreapp2.2\FizzBuzzDojo.csprojAssemblyReference.cache
