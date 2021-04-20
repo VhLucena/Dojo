@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using WordChains.Exceptions;
+﻿using System.Collections.Generic;
+using Application.Exceptions;
 
-namespace WordChains
+namespace Application
 {
     public class Validator
     {

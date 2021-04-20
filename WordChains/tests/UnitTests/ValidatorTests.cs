@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using WordChains;
-using WordChains.Exceptions;
+﻿using System.Collections.Generic;
+using Application;
+using Application.Exceptions;
 using Xunit;
 
-namespace WordChain.UnitTests
+namespace UnitTests
 {
 	public class IsValidWordTests
 	{
