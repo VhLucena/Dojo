@@ -174,7 +174,7 @@ namespace UnitTests
             _validator = new Validator(dictionary);
 		}
 
-        [Fact(DisplayName = "Validator -> Consider Valid When Providing Valid Word")]
+        [Fact(DisplayName = "Validator -> Consider Valid When Providing Valid Sequence")]
         public void Should_ConsiderValid_When_SequenceIsValid()
         {
 			// Arrange
@@ -183,6 +183,36 @@ namespace UnitTests
 			// Act / Assert
 			_validator.IsValidSequence(sequence);
         }
-    }
+
+		[Fact(DisplayName = "Validator -> Consider Invalid When Providing Invalid Sequence")]
+		public void Should_ConsiderInvalid_When_SequenceIsInvalid()
+		{
+			// Arrange
+			var sequence = new List<string> { "dog", "cot", "cat" };
+
+			// Act / Assert
+			Assert.Throws<InvalidChangeException>(() => _validator.IsValidSequence(sequence));
+		}
+
+		[Fact(DisplayName = "Validator -> Consider Valid When Providing Empty Sequence")]
+		public void Should_ConsiderValid_When_SequenceIsEmpty()
+		{
+			// Arrange
+			var sequence = new List<string> { };
+
+			// Act / Assert
+			_validator.IsValidSequence(sequence);
+		}
+
+		[Fact(DisplayName = "Validator -> Consider Valid When Providing Null Sequence")]
+		public void Should_ConsiderValid_When_SequenceIsEmpty()
+		{
+			// Arrange
+			var sequence = new List<string> { };
+
+			// Act / Assert
+			_validator.IsValidSequence(sequence);
+		}
+	}
 }
 
