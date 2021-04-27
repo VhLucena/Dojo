@@ -162,10 +162,26 @@ namespace UnitTests
 
     public class IsValidSequenceTests
     {
-        [Fact(DisplayName = "Validator -> ")]
-        public void Should()
+        private readonly Validator _validator;
+        
+        public IsValidSequenceTests()
         {
+            var dictionary = new List<string>
+            {
+                "dog", "cat", "dot", "cot"
+            };
 
+            _validator = new Validator(dictionary);
+		}
+
+        [Fact(DisplayName = "Validator -> Consider Valid When Providing Valid Word")]
+        public void Should_ConsiderValid_When_SequenceIsValid()
+        {
+			// Arrange
+			var sequence = new List<string> { "dog", "dot", "cot" };
+
+			// Act / Assert
+			_validator.IsValidSequence(sequence);
         }
     }
 }
