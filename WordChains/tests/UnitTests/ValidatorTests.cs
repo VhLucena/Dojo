@@ -198,17 +198,17 @@ namespace UnitTests
 		public void Should_ConsiderValid_When_SequenceIsEmpty()
 		{
 			// Arrange
-			var sequence = new List<string> { };
+			var sequence = new List<string>();
 
 			// Act / Assert
 			_validator.IsValidSequence(sequence);
 		}
 
-		[Fact(DisplayName = "Validator -> Consider Valid When Providing Null Sequence")]
-		public void Should_ConsiderValid_When_SequenceIsEmpty()
+		[Fact(DisplayName = "Validator -> Throw InvalidWordException When Sequence Has Invalid Word and Invalid Changes")]
+		public void Should_ThrowInvalidWordException_When_()
 		{
 			// Arrange
-			var sequence = new List<string> { };
+			var sequence = new List<string>();
 
 			// Act / Assert
 			_validator.IsValidSequence(sequence);
