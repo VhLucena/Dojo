@@ -18,6 +18,11 @@ namespace WordChains
             _dictionary = dictionary;
         }
 
+        public void IsValidSequence(List<string> words)
+        {
+
+        }
+
         public void IsValidWords(List<string> words)
         {
             foreach (var word in words)

@@ -24,7 +24,7 @@ namespace WordChain.UnitTests
 		public void Should_ConsiderValid_When_WordsAreValid()
 		{
 			// Arrange
-			var validInput = new List<string> { "dog", "dot", "cot" };
+			var validInput = new List<string> { "dog", "cot", "dot" };
 
 			// Act / Assert
 			_validator.IsValidWords(validInput);
