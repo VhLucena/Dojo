@@ -37,7 +37,6 @@ namespace Application
 
         public void IsValidChanges(List<string> changes)
         {
-            // "dog house", "dog"
             for (int i = 0; i < changes.Count-1; i++)
             {
                 if (changes[i].Length != changes[i + 1].Length)

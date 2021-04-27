@@ -205,14 +205,13 @@ namespace UnitTests
 		}
 
 		[Fact(DisplayName = "Validator -> Throw InvalidWordException When Sequence Has Invalid Word and Invalid Changes")]
-		public void Should_ThrowInvalidWordException_When_()
+		public void Should_ThrowInvalidWordException_When_SequenceHasInvalidWordAndInvalidChanges()
 		{
 			// Arrange
-			var sequence = new List<string>();
+			var sequence = new List<string> { "dog", "horse", "fish" };
 
 			// Act / Assert
-			_validator.IsValidSequence(sequence);
+			Assert.Throws<InvalidWordException>(() => _validator.IsValidSequence(sequence));
 		}
 	}
 }
-
