@@ -55,7 +55,8 @@ namespace UnitTests
 			Assert.Throws<InvalidWordException>(() => _validator.IsValidWords(invalidWords));
 		}
 	}
-	public class IsValidChangesTests
+	
+    public class IsValidChangesTests
 	{
 		private readonly Validator _validator;
 		public IsValidChangesTests()
@@ -158,5 +159,14 @@ namespace UnitTests
 			new Validator(dictionary);
 		}
 	}
+
+    public class IsValidSequenceTests
+    {
+        [Fact(DisplayName = "Validator -> ")]
+        public void Should()
+        {
+
+        }
+    }
 }
 

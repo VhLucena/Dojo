@@ -19,7 +19,8 @@ namespace Application
 
         public void IsValidSequence(List<string> words)
         {
-
+            IsValidWords(words);
+            IsValidChanges(words);
         }
 
         public void IsValidWords(List<string> words)
