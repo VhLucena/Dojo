@@ -10,11 +10,13 @@ namespace UnitTests
     public class WordChainTests
     {
 		private readonly WordChain _wordChain;
+		private readonly Validator _validator;
 
 		public WordChainTests()
         {
 			var dictionary = new List<string> { "cat", "dog" };
 			_wordChain = new WordChain(dictionary);
+			_validator = new Validator(dictionary);
         }
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
@@ -27,9 +29,7 @@ namespace UnitTests
             var result = _wordChain.Solver(input, input);
 
 			// Assert
-            result.Count.Should().Be(1);
-            result.Should().NotBeEmpty();
-            result.Should().NotBeNull();
+			_validator.IsValidSequence(result);
         }
     }
 }

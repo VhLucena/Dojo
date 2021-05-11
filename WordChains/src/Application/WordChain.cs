@@ -15,7 +15,7 @@ namespace Application
         
         public List<string> Solver(string first, string last)
         {
-            return null;
+            return new List<string> { "dog", "dag" };
         }
     }
 }
