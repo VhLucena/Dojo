@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using Application;
+using Xunit;
+using FluentAssertions;
 
 namespace UnitTests
 {
@@ -11,8 +13,8 @@ namespace UnitTests
 
 		public WordChainTests()
         {
-			var dictionary = List<string> { "cat", "dog" };
-			_wordChain = new WordChain();
+			var dictionary = new List<string> { "cat", "dog" };
+			_wordChain = new WordChain(dictionary);
         }
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
@@ -21,8 +23,13 @@ namespace UnitTests
 			// Arrange
 			var input = "dog";
 
-			// Act / Assert
-			_validator.IsValidWords(validInput);
-		}
-	}
+			// Act 
+            var result = _wordChain.Solver(input, input);
+
+			// Assert
+            result.Count.Should().Be(1);
+            result.Should().NotBeEmpty();
+            result.Should().NotBeNull();
+        }
+    }
 }
