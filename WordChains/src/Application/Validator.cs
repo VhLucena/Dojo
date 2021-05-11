@@ -21,13 +21,22 @@ namespace Application
 
         public void IsValidSequence(List<string> words, string first, string last)
         {
+            AreValidEdges(words, first, last);
+            AreValidWords(words);
+            AreValidChanges(words);
+        }
+
+        public void AreValidEdges(List<string> words, string first, string last)
+        {
+            if (words.Count == 0)
+            {
+                throw new InvalidWordsException();
+            }
+            
             if (words.First() != first || words.Last() != last)
             {
                 throw new Exception();
             }
-            
-            AreValidWords(words);
-            AreValidChanges(words);
         }
 
         public void AreValidWords(List<string> words)

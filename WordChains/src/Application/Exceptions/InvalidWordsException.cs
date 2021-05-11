@@ -2,6 +2,6 @@
 
 namespace Application.Exceptions
 {
-    public class InvalidWordsException : Exception
+    public class InvalidWordException : Exception
         { }
 }
