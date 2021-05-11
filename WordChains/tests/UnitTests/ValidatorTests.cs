@@ -26,7 +26,7 @@ namespace UnitTests
 			var validInput = new List<string> { "dog", "cot", "dot" };
 
 			// Act / Assert
-			_validator.IsValidWords(validInput);
+			_validator.AreValidWords(validInput);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Valid Words")]
@@ -36,7 +36,7 @@ namespace UnitTests
 			var validInput = new List<string> { };
 
 			// Act / Assert
-			_validator.IsValidWords(validInput);
+			_validator.AreValidWords(validInput);
 		}
 
 		[Theory(DisplayName = "Validator -> Should Consider Invalid -> Providing Invalid Words")]
@@ -52,7 +52,7 @@ namespace UnitTests
 			var invalidWords = new List<string> { invalidWord };
 
 			// Act / Assert
-			Assert.Throws<InvalidWordException>(() => _validator.IsValidWords(invalidWords));
+			Assert.Throws<InvalidWordException>(() => _validator.AreValidWords(invalidWords));
 		}
 	}
 	
@@ -76,7 +76,7 @@ namespace UnitTests
 			var validChanges = new List<string> { "cat", "cot" };
 
 			// Act / Assert
-			_validator.IsValidChanges(validChanges);
+			_validator.AreValidChanges(validChanges);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing No Changes")]
@@ -86,7 +86,7 @@ namespace UnitTests
 			var noChanges = new List<string> { "cat" };
 
 			// Act / Assert
-			_validator.IsValidChanges(noChanges);
+			_validator.AreValidChanges(noChanges);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Invalid -> Providing One Invalid Change")]
@@ -96,7 +96,7 @@ namespace UnitTests
 			var invalidChanges = new List<string> { "cat", "dog" };
 
 			// Act / Assert
-			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
+			Assert.Throws<InvalidChangeException>(() => _validator.AreValidChanges(invalidChanges));
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Valid -> Providing Two Valid Changes")]
@@ -106,7 +106,7 @@ namespace UnitTests
 			var validChanges = new List<string> { "cat", "cot", "cog" };
 
 			// Act / Assert
-			_validator.IsValidChanges(validChanges);
+			_validator.AreValidChanges(validChanges);
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Invalid -> First Word Is Bigger Than Second")]
@@ -116,7 +116,7 @@ namespace UnitTests
 			var invalidChanges = new List<string> { "doghouse", "dog" };
 
 			// Act / Assert
-			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
+			Assert.Throws<InvalidChangeException>(() => _validator.AreValidChanges(invalidChanges));
 		}
 
 		[Fact(DisplayName = "Validator -> Should Consider Invalid -> First Word Is Smaller Than Second")]
@@ -126,7 +126,7 @@ namespace UnitTests
 			var invalidChanges = new List<string> { "dog", "doghouse" };
 
 			// Act / Assert
-			Assert.Throws<InvalidChangeException>(() => _validator.IsValidChanges(invalidChanges));
+			Assert.Throws<InvalidChangeException>(() => _validator.AreValidChanges(invalidChanges));
 		}
 	}
 
@@ -181,7 +181,7 @@ namespace UnitTests
 			var sequence = new List<string> { "dog", "dot", "cot" };
 
 			// Act / Assert
-			_validator.IsValidSequence(sequence);
+			_validator.IsValidSequence(sequence, "dog", "cot");
         }
 
 		[Fact(DisplayName = "Validator -> Consider Invalid When Providing Invalid Sequence")]
@@ -191,7 +191,7 @@ namespace UnitTests
 			var sequence = new List<string> { "dog", "cot", "cat" };
 
 			// Act / Assert
-			Assert.Throws<InvalidChangeException>(() => _validator.IsValidSequence(sequence));
+			Assert.Throws<InvalidChangeException>(() => _validator.IsValidSequence(sequence, "dog", "cat"));
 		}
 
 		[Fact(DisplayName = "Validator -> Consider Valid When Providing Empty Sequence")]
@@ -201,7 +201,7 @@ namespace UnitTests
 			var sequence = new List<string>();
 
 			// Act / Assert
-			_validator.IsValidSequence(sequence);
+			_validator.IsValidSequence(sequence, null, null);
 		}
 
 		[Fact(DisplayName = "Validator -> Throw InvalidWordException When Sequence Has Invalid Word and Invalid Changes")]
@@ -211,7 +211,7 @@ namespace UnitTests
 			var sequence = new List<string> { "dog", "horse", "fish" };
 
 			// Act / Assert
-			Assert.Throws<InvalidWordException>(() => _validator.IsValidSequence(sequence));
+			Assert.Throws<InvalidWordException>(() => _validator.IsValidSequence(sequence, "dog", "fish"));
 		}
 	}
 }
