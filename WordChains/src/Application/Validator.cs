@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Application.Exceptions;
 
 namespace Application
@@ -18,13 +19,18 @@ namespace Application
             _dictionary = dictionary;
         }
 
-        public void IsValidSequence(List<string> words)
+        public void IsValidSequence(List<string> words, string first, string last)
         {
-            IsValidWords(words);
-            IsValidChanges(words);
+            if (words.First() != first || words.Last() != last)
+            {
+                throw new Exception();
+            }
+            
+            AreValidWords(words);
+            AreValidChanges(words);
         }
 
-        public void IsValidWords(List<string> words)
+        public void AreValidWords(List<string> words)
         {
             foreach (var word in words)
             {
@@ -35,7 +41,7 @@ namespace Application
             }
         }
 
-        public void IsValidChanges(List<string> changes)
+        public void AreValidChanges(List<string> changes)
         {
             for (int i = 0; i < changes.Count-1; i++)
             {

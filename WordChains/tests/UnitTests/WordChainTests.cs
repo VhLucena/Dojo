@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using Application;
 using Xunit;
@@ -29,7 +30,7 @@ namespace UnitTests
             var result = _wordChain.Solver(input, input);
 
 			// Assert
-			_validator.IsValidSequence(result);
+			_validator.IsValidSequence(result, input, input);
         }
     }
 }
