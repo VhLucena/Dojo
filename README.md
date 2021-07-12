@@ -1,5 +1,5 @@
 # FizzBuzz
-- The objective is to show a list of number from 0 to 100 where if the number is divisible by 3 is shown 'Fizzz', if the number is divisible by 5 is shown 'Buzz', and if the number is divisible by 3 and 5 is shown 'FizzBuzz'.
+- The objective is to show a list of number from 0 to 100 where if the number is divisible by 3 is shown 'Fizz', if the number is divisible by 5 is shown 'Buzz', and if the number is divisible by 3 and 5 is shown 'FizzBuzz'.
 - ([Reference](https://dojopuzzles.com/problems/fizzbuzz/))
 
 # Sudoku
